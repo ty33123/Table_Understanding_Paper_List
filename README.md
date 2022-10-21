@@ -5,7 +5,7 @@
 
 - Zhang, Shuo, and Krisztian Balog.<br />
   "Web table extraction, retrieval, and augmentation: A survey." ACM Transactions on Intelligent Systems and Technology (TIST) 11.2 (2020): 1-35.
-  [[paper](https://doi.org/10.1145/3372117 )]
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3372117 )]
 
 - Haoyu Dong, Zhoujun Cheng, Xinyi He, Mengyu Zhou, Anda Zhou, Fan Zhou, Ao Liu, Shi Han, and Dongmei Zhang.<br />
   "Table Pre-training: A Survey on Model Architectures, Pre-training Objectives, and Downstream Tasks." IJCAI 2022.
@@ -219,3 +219,40 @@
 * **SIGIR 2019:** Information Access & Interaction research at the University of Stavanger.
   "Web Table Extraction, Retrieval and Augmentation." 
   [[link](https://usc-isi-i2.github.io/KDD21Tutorial/ )]
+ 
+
+## Benchmark 
+
+### Table Annotation 
+* **Table Annotation(CTA,CPA):** Web Data Commons Google Group.
+  "Web Data Commons - Schema.org Table Annotation Benchmark." (Google2022)
+  [[dataset](http://webdatacommons.org/structureddata/sotab/ )]
+
+### Table Retrieval 
+
+* **Table Retrieval(WebQueryTable):** Harbin Institute of Technology, Microsoft AI and Research.
+  "Content-based table retrieval for web queries." (Neurocomputing2019)
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0925231218312219 )]
+  [[dataset](https://github.com/tangduyu/Table-Intelligence/tree/master/table-search )]
+
+* **Table Retrieval(WikiTables):** University of Stavanger.
+  "Ad hoc table retrieval using semantic similarity." (WWW2018)
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3178876.3186067 )]
+  [[dataset](https://github.com/iai-group/www2018-table/ )]
+  
+### Table Relation Extraction
+* **Table Relation Extraction:** Amazon AWS AI.<br />
+  "A Relation Extraction Dataset for Knowledge Extraction from Web Tables." (COLING2022)
+  [[paper](https://aclanthology.org/2022.coling-1.203.pdf )]
+  [[dataset](https://github.com/alexa/alexa-dataset-redtab )]
+
+### Table Question Answering
+* **HiTab:** Microsoft Research Asia.<br />
+  "HiTab : A Hierarchical Table Dataset for Question Answering and Natural Language Generation." (ACL2022)
+  [[paper](https://aclanthology.org/2022.acl-long.78.pdf )]
+  [[dataset](https://github.com/microsoft/hitab )]
+  
+* **HybriDialogue:** California Institute of Technology. <br />
+  "HybriDialogue: An Information-Seeking Dialogue Dataset Grounded on Tabular and Textual Data." (ACL2022 Findings)
+  [[paper](https://aclanthology.org/2022.findings-acl.41.pdf )]
+  [[dataset](https://github.com/entitize/HybridDialogue )]
